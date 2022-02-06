@@ -1,6 +1,6 @@
 const discord  = require('discord.js-self');
 const client = new discord.Client();
-const token = "" // <======= put your token here
+const token = "" 
 const ownername = "Abolfazl#0009" 
 const status = [
   "dnd", 
